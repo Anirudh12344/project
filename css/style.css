@@ -1,0 +1,35 @@
+#container {
+    margin: 0;
+    padding: 0;
+    border: 5px solid black;
+    text-align: center;
+    color: darkblue;
+    font-size: 18px;
+}
+
+#topheader {
+    border: 2px solid black;
+    display: flex;
+}
+
+#maincontentarea {
+    height: auto;
+    width: auto;
+    background-color: yellow;
+    border: 1px solid black;
+    margin: 50px;
+    display: flex;
+}
+
+.thumb1 {
+    width: 240px;
+    height: 150px;
+    background-color: aqua;
+    margin: 2px;
+    border: 1px solid black;
+
+}
+
+body {
+    margin: 20px;
+}
